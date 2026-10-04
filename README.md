@@ -20,6 +20,8 @@
 ### 🧮 Calculator
 A functional calculator built using HTML, CSS, and JavaScript.
 
+🔗 https://nidafatimaaaa.github.io/calculator/
+
 ### 📝 Student Details Form
 A student information form created using HTML and CSS.
 
