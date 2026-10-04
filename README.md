@@ -1,6 +1,6 @@
-# Hi, I'm Nida Fatima 👋
+# Hello, I'm Nida Fatima
 
-🎓 B.Sc. Computer Science Student at BITS Pilani
+🎓A  B.Sc. Computer Science Student at BITS Pilani
 
 💻 Interested in Web Development & UI Design  
 🌱 Currently learning JavaScript  
